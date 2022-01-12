@@ -1,0 +1,7 @@
+Current version: 1.0.9
+
+-Now visible version on the menu.
+-Change the version.txt file a bit (delete the Lastest version information because it's too useless)
+-Now the option 2 (create new data) and load data is work perfectly fine
+-Error not fixed in this version yet because *for some reason i don't see any error while running* 
+-Change the settings.json format so no json decode error? idk maybe yes
