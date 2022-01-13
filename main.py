@@ -1,5 +1,5 @@
 from json.decoder import JSONDecodeError
-import discum_c844aef
+import etc.discum_c844aef
 import time
 import multiprocessing
 import random
@@ -7,7 +7,7 @@ import re
 import os
 from functools import cache
 
-from discum_c844aef.discum import Client
+from etc.discum_c844aef.discum import Client
 if os.name == 'posix':
   import simplejson as json
 if os.name == 'nt':
@@ -91,7 +91,7 @@ def report_error(content):
     print(at(), content)
   else:
     messagebox.showerror("OWO Auto Farm", content)
-client=discum_c844aef.Client(token=bot.token,proxy_host=bot.proxyserver, proxy_port=bot.proxyport, log=False)
+client=etc.discum_c844aef.Client(token=bot.token,proxy_host=bot.proxyserver, proxy_port=bot.proxyport, log=False)
 def issuechecker():
  try:
    msgs=client.getMessages(str(bot.channel),num=10)

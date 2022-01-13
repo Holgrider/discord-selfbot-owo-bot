@@ -1,0 +1,19 @@
+{
+    "__TRANSLATION_FILE_VERSION" : "1.0",
+    "__TRANSLATION_FILE_LANGUAGE" : "TR/Turkish",
+
+
+    "settings_profile_title" : "Yeni profil adı",
+    "profile_name": "Profil adı",
+    "profile_auth_key" : "Discord Token",
+    "gem_bot": "Gem Bot",
+    "gem_bot_desc": "Gem Botu, oyun için gem ve itemlerin otomatik olarak kullanılmasını sağlar",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "new_profile": "Yeni Profil",
+    "delete_profile": "Profil Sil",
+    "new_value": "Değer:",
+    "new_value_int": "Sayı girin:",
+    "invalid_value_req_int": "Geçersiz değer, sayı girin"
+}

@@ -1,0 +1,20 @@
+{
+    "__TRANSLATION_FILE_VERSION" : "1.0",
+    "__TRANSLATION_FILE_LANGUAGE" : "VI/Vietnamese",
+
+    
+    "settings_profile_title" : "Tiêu đề của hồ sơ",
+    "profile_name" : "Tên hồ sơ",
+    "profile_auth_key" : "Discord Token",
+    "gem_bot": "Gem Bot",
+    "gem_bot_desc": "Gem Bot là một con bot sẽ tự động xài gem và các vật phẩm khác cho bạn.",
+    "save": "Lưu",
+    "cancel": "Huỷ bỏ",
+    "close": "Dóng",
+    "new_profile": "Hồ sơ Mới",
+    "delete_profile": "Xoá Hồ sơ",
+    "new_value": "Nhập giá trị mới:",
+    "new_value_int": "Nhập giá trị mới (chữ số):",
+    "invalid_value_req_int": "Giá trị không hợp lệ, biến phải là integer"
+
+}

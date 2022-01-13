@@ -1,0 +1,4 @@
+#satılacak eşyaların kodlarını doğrular
+#yazısal olarak sadece all yazılabilir
+STR:ALL
+INT:0-1000

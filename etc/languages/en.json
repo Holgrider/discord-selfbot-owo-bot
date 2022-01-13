@@ -1,0 +1,25 @@
+{
+    "__TRANSLATION_FILE_VERSION" : "1.0",
+    "__TRANSLATION_FILE_LANGUAGE" : "EN/English",
+
+    "edit_profile": "Edit profile",
+    "select_to_delete": "Select profile to delete",
+    "settings_profile_title" : "Title of the profile",
+    "profile_name" : "Profile name",
+    "profile_auth_key" : "Discord Token",
+    "gem_bot": "Gem Bot",
+    "gem_bot_desc": "Gem Bot is a bot that will use gems and other items from the game.",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "new_profile": "New Profile",
+    "delete_profile": "Delete Profile",
+    "new_value": "Enter the new value:",
+    "new_value_int": "Enter the new value (numeral):",
+    "invalid_value_req_int": "Invaid value, an integer required",
+    "select_string_to_edit": "select a setting to edit to -> ",
+    "change_value_?": "Change a setting? (y/n) ",
+    "no": "no",
+    "True": "True",
+    "False": "False"
+}
