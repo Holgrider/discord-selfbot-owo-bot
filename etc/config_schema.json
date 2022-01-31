@@ -18,35 +18,40 @@
         "type": "bool",
         "description": "gem_bot_description",
         "required": true,
-        "default": true
+        "default": true,
+        "path": "etc.cheat.gem"
     },
     "hunt_bot": {
         "name": "hunt_bot",
         "type": "bool",
         "description": "hunt_bot_description",
         "required": true,
-        "default": true
+        "default": true,
+        "path": "etc.cheat.hunt"
     },
     "pray_bot": {
         "name": "pray_bot",
         "type": "bool",
         "description": "pray_bot_description",
         "required": true,
-        "default": true
+        "default": true,
+        "path": "etc.cheat.pray"
     },
     "autosell_zoo": {
         "name": "autosell_zoo",
         "type": "bool",
         "description": "autosell_zoo_description",
         "required": true,
-        "default": true
+        "default": true,
+        "path": "etc.cheat.zoo"
     },
     "auto_use_cases": {
         "name": "auto_use_cases",
         "type": "bool",
         "description": "auto_use_cases_description",
         "required": true,
-        "default": true
+        "default": true,
+        "path": "etc.cheat.caseman"
     },
     "autosell_zoo_interval": {
         "name": "autosell_zoo_interval",
@@ -60,6 +65,6 @@
         "type": "CONFIRM:etc/confirmations/autosell_zoo_amount.confirm",
         "description": "autosell_zoo_amount_description",
         "required": true,
-        "default": 1
+    "default": 1
     }
 }
